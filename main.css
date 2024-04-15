@@ -58,7 +58,7 @@ body {
   #title {
     background: var(--background-color);
     z-index:2;
-    background-image: url(/img/clouds.png);
+    background-image: url(img/clouds.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -165,7 +165,7 @@ body {
   
   #slide4 {
     background: var(--background-color);
-    background-image: url(/img/clouds.png);
+    background-image: url(img/clouds.png);
     background-position: center;
     background-size: cover;
   }
@@ -181,19 +181,19 @@ body {
 }
 
 .card--1 .card__img, .card--1 .card__img--hover {
-    background-image: url(/img/forest-2.jpeg);
+    background-image: url(img/forest-2.jpeg);
 }
 
 .card--2 .card__img, .card--2 .card__img--hover {
-    background-image: url(/img/sea-beach.jpeg);
+    background-image: url(img/sea-beach.jpeg);
 }
 
 .card--3 .card__img, .card--3 .card__img--hover {
-    background-image: url(/img/mountains.jpeg);
+    background-image: url(img/mountains.jpeg);
 }
 
 .card--4 .card__img, .card--4 .card__img--hover {
-    background-image: url(/img/jungle.jpeg);
+    background-image: url(img/jungle.jpeg);
 }
 
 .card__img {
