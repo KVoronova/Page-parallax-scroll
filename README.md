@@ -1,1 +1,1 @@
-https://kvoronova.github.io/Page-parallax-scroll/
+https://fancy-pika-ad708a.netlify.app/
